@@ -1,0 +1,75 @@
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  h1, h2 {
+    color: #333;
+  }
+  
+
+  header {
+    background-color: #f2f2f2;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  section {
+    margin: 20px;
+  }
+  
+  ul {
+    list-style-type: disc;
+    padding-left: 20px;
+  }
+  
+  footer {
+    background-color: #f2f2f2;
+    padding: 10px;
+    text-align: center;
+    font-size: 12px;
+  }
+  
+
+  form {
+    width: 300px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #f2f2f2;
+  }
+  
+  input[type="text"],
+  input[type="email"],
+  input[type="password"] {
+    width: 100%;
+    margin-bottom: 10px;
+    padding: 10px;
+    border: 1px solid #ccc;
+  }
+  
+  button {
+    width: 100%;
+    padding: 10px;
+    background-color: #333;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+  }
+  
+
+  #search-form {
+    width: 300px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #f2f2f2;
+  }
+  
+  #candidate-list {
+    margin: 20px;
+  }
+  a {
+    text-decoration: none;
+    color: #fff;
+  }
